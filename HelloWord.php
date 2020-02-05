@@ -7,9 +7,14 @@ $total = $a +$b;
 
 $total2 = $a - $b;
 
+$total3 = $a * $b;
+
 print((string)$total);
 
 print((string)$total2);
+
+print((string)$total3));
+
 
 
 ?>
