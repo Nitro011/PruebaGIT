@@ -1,7 +1,12 @@
 <?php
 
+$a =4;
+$b = 6;
 
-echo 'Hola mundo';
+$total = $a +$b;
+
+
+print((string)$total);
 
 
 ?>
