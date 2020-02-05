@@ -13,7 +13,7 @@ print((string)$total);
 
 print((string)$total2);
 
-print((string)$total3));
+print("La multiplicacion de esta operacion es: ".(string)$total3));
 
 
 
